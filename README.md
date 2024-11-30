@@ -1,4 +1,11 @@
-# Getting Started with Create React App
+### ブログアプリの基本的な構造作成
+次に、ブログの記事を管理するためのコンポーネントを作成します。
+
+- ArticleType: 記事データの型を定義します。
+- Blog: 記事のリストを表示するコンポーネント。
+
+
+### Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
